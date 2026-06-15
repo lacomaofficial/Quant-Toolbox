@@ -42,7 +42,7 @@ Quant-Toolbox/
 
 ## Related
 
-- [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Deep learning for time series forecasting
+- [`Time-Series-Models`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Deep learning for time series forecasting
 - [`YC Hedge Fund`](https://lacomaofficial.github.io) — Research group homepage
 
 <br>
