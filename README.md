@@ -36,27 +36,14 @@ Quant-Toolbox/
 | **Stock Screener** | Yahoo Finance API scraper with multi-category extraction |
 | **Signal Scanner** | Multi-ticker technical signal generation (BUY/SELL) |
 
-<br>
 
-## Setup
-
-```bash
-git clone https://github.com/lacomaofficial/Quant-Toolbox.git
-cd Quant-Toolbox
-pip install -r requirements.txt
-```
-
-Launch any app:
-```bash
-python apps/technical.py
-```
 
 <br>
 
 ## Related
 
 - [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Deep learning for time series forecasting
-- [YC Hedge Fund](https://lacomaofficial.github.io) — Research group homepage
+- [`YC Hedge Fund`](https://lacomaofficial.github.io) — Research group homepage
 
 <br>
 
