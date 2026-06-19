@@ -1,4 +1,4 @@
-# Quant-Toolbox
+# Quant-Lab
 
 A collection of quantitative finance tools for market screening, technical analysis, and macro regime detection. Built with Gradio, Yahoo Finance, and Hugging Face models.
 
